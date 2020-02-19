@@ -10,9 +10,11 @@ sehingga memudahkan dalam pembuatan layout web untuk deksktop dan mobile.
 Kita harus pastikan halaman web yang dibuat telah terkoneksi dengan library bootstrap. Untuk permulaan mengunduh library Bootstrap 
 versi 4 dan diletakkan pada direktori local kita.
 
-#![AltText] (https://github.com/natasyaadelia/Bootstrap/blob/master/B1.JPG "Hasil 1")
+![AltText] (https://github.com/natasyaadelia/Bootstrap/blob/master/B1.JPG)
+
 #Hasil latihan 2
-#![AltText] (https://github.com/natasyaadelia/Bootstrap/blob/master/B2.JPG
+
+![AltText] (https://github.com/natasyaadelia/Bootstrap/blob/master/B2.JPG)
 #Hasil latihan 3
 #![AltText] (https://github.com/natasyaadelia/Bootstrap/blob/master/B3.JPG)
 #Hasil latihan 4.1
